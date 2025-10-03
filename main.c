@@ -60,7 +60,6 @@ int readFile(FILE *fileName, char *buffer, int bufferSize,
     return 0;
 }
 
-
 int sortFile(const void *a, const void *b) {
     const char *sa = *(const char * const *)a;
     const char *sb = *(const char * const *)b;
