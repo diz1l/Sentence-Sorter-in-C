@@ -1,0 +1,8 @@
+C is a powerful language.
+It is used to build systems.
+And Many programmers start with C.Pointers are tricky but useful.
+    Loops make programs repeat actions.
+Functions help to organize code.
+ Debugging is part of learning.
+Practice makes you better.
+    Programming can be fun.

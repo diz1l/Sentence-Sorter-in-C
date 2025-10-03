@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sentence_Sorter_in_C",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sentence_Sorter_in_C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sentence_Sorter_in_C-Debug-962e54bc31286b5c09e1.json",
+					"name" : "Sentence_Sorter_in_C",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/! VSFS/OOP/1000/2. Set\u0159\u00edd\u011bn\u00ed textov\u00e9ho souboru podle v\u011bt/Sentence Sorter in C/cmake-build-debug",
+		"source" : "E:/! VSFS/OOP/1000/2. Set\u0159\u00edd\u011bn\u00ed textov\u00e9ho souboru podle v\u011bt/Sentence Sorter in C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
